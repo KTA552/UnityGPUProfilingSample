@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Example/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Example/Scenes/Cube-Light.unity
+    guid: 9a25160a41bb40548b0e93e0d795bbd9
+  - enabled: 1
+    path: Assets/_Example/Scenes/Cube-Heavy.unity
+    guid: 1c70639f2473a514c8f906729716312f
   m_configObjects: {}
