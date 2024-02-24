@@ -3,7 +3,7 @@ using FTM;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Examples
+namespace _Example.Scripts
 {
     internal sealed class ViewController : MonoBehaviour
     {

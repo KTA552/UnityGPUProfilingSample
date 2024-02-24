@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace _Examples
+namespace _Example.Scripts
 {
     internal class Rotation : MonoBehaviour
     {
